@@ -1,16 +1,10 @@
 # random_choice_app
 
-A new Flutter project.
+入力した選択肢からランダムに選んで出力するMacOS用アプリ
 
-## Getting Started
+![RandomChoiceApp](https://user-images.githubusercontent.com/25385683/81832638-b6e0f900-9579-11ea-8366-47dac77a0078.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to use
+1. 右下の"+1ボタン"を押し，選択肢のカラムを増やします
+1. 選択肢ラベルを入力します
+1. "あなたがやるべきことは..."ボタンを押すと，ランダムな結果が表示されます
