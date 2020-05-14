@@ -2,6 +2,8 @@
 
 入力した選択肢からランダムに選んで出力するMacOS用アプリ
 
+Qiita: https://qiita.com/someday/items/ce2435498f04eb8b137f
+
 ![RandomChoiceApp](https://user-images.githubusercontent.com/25385683/81832638-b6e0f900-9579-11ea-8366-47dac77a0078.gif)
 
 ## How to use
